@@ -1,0 +1,30 @@
+{
+  "sample_001": [
+    {
+      "img": "IMAGES/sample_001/frame_000_start.png",
+      "duration": 3.0
+    },
+    {
+      "img": "IMAGES/sample_001/frame_001.png",
+      "duration": 1.0
+    },
+    {
+      "img": "IMAGES/sample_001/frame_002_end.png",
+      "duration": 3.0
+    }
+  ],
+  "sample_002": [
+    {
+      "img": "IMAGES/sample_002/frame_000_start.png",
+      "duration": 3.0
+    },
+    {
+      "img": "IMAGES/sample_002/frame_001.png",
+      "duration": 1.0
+    },
+    {
+      "img": "IMAGES/sample_002/frame_002_end.png",
+      "duration": 3.0
+    }
+  ]
+}
